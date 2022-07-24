@@ -8,9 +8,9 @@ Program that is designed for ~~solving on his own~~ helping user guess daily wor
 
 ## Requirements
 
-- python v3.8+
+- python (v3.8+)
 - geckodriver (with path added to system variables)
-- libraries: Selenium (v3.141), json, time
+- libraries: Selenium (v3.141+), json, time
 
 
 ## How to start
