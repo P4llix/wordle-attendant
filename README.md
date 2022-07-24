@@ -79,3 +79,6 @@ There is a redundancy of many words, however program doesn't need to loop thru d
 
 ### 2. Scrapp data from website
 Easiest part. When user confirm his choice, char and state of each tile in current round is collected.
+
+### 3. Word processing
+When round is over, program check which char is absent, present and correct, also saving index. Next, list of possible words is created using intersection/union operations.
