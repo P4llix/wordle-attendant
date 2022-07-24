@@ -3,10 +3,10 @@ Program that is designed for ~~solving on his own~~ helping user guess daily wor
   Works only with Firefox webbrowser.
 
 
-## Example:
+## Example
 ![demo](https://github.com/P4llix/wordle-attendant/blob/main/doc/demo.gif)
 
-## Requirements:
+## Requirements
 
 - python v3.8+
 - geckodriver (with path added to system variables)
