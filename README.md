@@ -3,9 +3,9 @@ Program thats disire is to help user guess daily word in [wordle](https://www.ny
 Works only with Firefox webbrowser
 
 Example:
-[](https://github.com/P4llix/wordle-attendant/blob/main/doc/demo.gif)
+![demo](https://github.com/P4llix/wordle-attendant/blob/main/doc/demo.gif)
 
-#Requirements
+# Requirements
 - python
 - geckodriver (with path added to system variables)
 - libraries: Selenium, json, time
