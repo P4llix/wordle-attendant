@@ -72,6 +72,10 @@ Later on, using above word structure are created *prepeared_list.json* file, whe
             "4": [],
             "5": []
         }
-    }
+    },
+    ...
 ```
+There is a redundancy of many words, however program doesn't need to loop thru dictionary. Every join/exclude action does intersection or union of two sets.
 
+### 2. Scrapp data from website
+Easiest part. When user confirm his choice, char and state of each tile in current round is collected.
