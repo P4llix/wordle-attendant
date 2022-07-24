@@ -82,3 +82,6 @@ Easiest part. When user confirm his choice, char and state of each tile in curre
 
 ### 3. Word processing
 When round is over, program check which char is absent, present and correct, also saving index. Next, list of possible words is created using intersection/union operations.
+
+## Conclusion
+Thanks to preprocessed words, search algorithm doesn't lag. App isn't foolproof so if user is not interested in guessing correct word, he won't win.
